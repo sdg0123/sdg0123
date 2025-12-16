@@ -40,7 +40,7 @@
 <h2 align="center">My GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshamgharat&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdg0123&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdg0123&layout=compact&theme=radical" />
 </div>
 
@@ -52,7 +52,7 @@
 
 [![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sdg0123&theme=react-dark)](https://github.com/sdg0123/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=sdg0123" alt="sakshamgharat" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=sdg0123" alt="sdg0123" /></p>
 
 
 
