@@ -25,7 +25,7 @@
 <a href="mailto:your.email@example.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
 </a>
-<a href="https://github.com/sakshamgharat" title="GitHub">
+<a href="https://github.com/sdg0123" title="GitHub">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
 </a>
 
